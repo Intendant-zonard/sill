@@ -33,7 +33,8 @@ dépôt](https://github.com/etalab/sillweb).
 | secteur        | Description du secteur                | Conception & Développement  | Valeur obligatoire |
 | similaire-a    | Logiciels similaires                  | Redmine                     | Valeur optionnelle |
 | statut         | Recommandé, en observation            | R                           | Valeur obligatoire |
-| version        | Version recommandée                   | 1.0                         | Valeur obligatoire |
+| version\_min   | Version minimale recommandée          | 1.0                         | Valeur obligatoire |
+| version\_max   | Version maximale recommandée          | 1.0                         | Valeur optionnelle |
 | wikidata       | Identifiant de l'entité Wikidata      | Q8038                       | Valeur optionnelle |
 
 # Licence

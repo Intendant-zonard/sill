@@ -37,7 +37,7 @@ ID,nom,fonction,annees,statut,parent,public,support,similaire-a,wikidata,comptoi
 36,Drupal,Système de gestion de contenus web,2019 ; 2020 ; 2021,R,,,Oui,162 ; 173 ; 203 ; 211,Q170855,264,LGPL-2.0,Données et contenu,Gestion de contenu web,,,MIMO,8.8,
 37,DVD Styler,Création de DVD vidéo avec un menu de navigation.,2018 ; 2019 ; 2020 ; 2021,O,,,,,Q4117800,74,GPL-3.0,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,3.1,
 38,Eclipse IDE,Environnement de développement,2018 ; 2019 ; 2020 ; 2021,R,,,Oui,97 ; 174 ; 215,Q82268,170,EPL-2.0,Conception & Développement,Environnement de développement intégré (IDE),Outil et/ou plugin de génération de tout ou partie du code,,MIMDEV,4.18,
-39,Elasticsearch,Indexation et recherche plein texte,2018 ; 2019 ; 2020 ; 2021,R,,,Oui,,Q3050461,201,Apache-2.0,Données et contenu,Moteur de recherche,En mode cluster,,MIMPROD,6.x,
+39,ElasticSearch (Open Distro),Indexation et recherche plein texte,2018 ; 2019 ; 2020 ; 2021,R,,,Oui,,Q3050461,201,Apache-2.0,Données et contenu,Moteur de recherche,En mode cluster,,MIMPROD,6.x,
 40,EOLE AMON,Pare-feu réseau et web,2018 ; 2019 ; 2020 ; 2021,R,,,,,,234,,Réseau,Pare-feu - Réseau,Services déconcentrés,,MIMPROD,2.7,
 41,EOLE (Ubuntu),Distribution GNU/LINUX,2018 ; 2019 ; 2020 ; 2021,R,,,,,Q3046024,240,,Logiciel Système et Virtualisation,Système d'Exploitation,Services déconcentrés,,MIMPROD,2.7,
 42,Escalation,Escalade de tickets,2018 ; 2019 ; 2020 ; 2021,O,GLPI,,,,,296,GPL-2.0-only,Opérations,Déploiement gestion d'actif et de configuration,Gestion des tickets,,MIMO,0.90+1.2,

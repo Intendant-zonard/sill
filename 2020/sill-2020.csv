@@ -12,7 +12,7 @@ ID,nom,fonction,annees,statut,parent,public,support,similaire-a,wikidata,comptoi
 11,ARX Data Anonymization Tool,Outil d'anonymisation des données,2019 ; 2020 ; 2021,O,,,,,,310,Apache-2.0,Conception & Développement,Test & Intégration,,,MIMDEV,3.7.6,
 12,Asqatasun,Vérification de la conformité de l'application aux règles d'accessibilité,2018 ; 2019 ; 2020 ; 2021,O,,,Oui,,Q24026504,9,AGPL-3.0,Conception & Développement,Qualité et sécurité du code source,,,MIMDEV,Docker,
 13,Assistant RGAA,Vérification de la conformité de l'application aux règles d'accessibilité,2019,O,,,,,,,etalab-2.0,Conception & Développement,Qualité et sécurité du code source,Poste de travail des agents impliqués dans le cycle de vie d'une application utilisée via un navigateur web,,MIMDEV,1.0.4,
-14,Audacity,Enregistrement et édition de sons,2018 ; 2019 ; 2020 ; 2021,R,,,,,Q191782,69,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,Enregistrement et édition de sons,,MIMO,2.3.3,2.4.2
+14,Audacity,Enregistrement et édition de sons,2018 ; 2019 ; 2020 ; 2021,FR,,,,,Q191782,69,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,Enregistrement et édition de sons,,MIMO,2.3.3,2.4.2
 15,Avidemux,Logiciel d'édition de vidéo,2018 ; 2019 ; 2020 ; 2021,O,,,,193,Q790931,70,GPL-2.0-only,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,2.7.4,
 16,Bareos,Sauvegadre Serveurs,2018 ; 2019 ; 2020 ; 2021,R,,,Oui,,Q25387280,243,,Sauvegarde,Sauvegarde Serveur,Services déconcentrés,,MIMPROD,Distribution,
 17,Behaviors (Comportements),Options de configuration supplémentaires,2018 ; 2019 ; 2020 ; 2021,R,GLPI,,,,,95,AGPL-3.0-or-later,Opérations,Déploiement gestion d'actif et de configuration,Gestion des tickets,,MIMO,2.1.4,

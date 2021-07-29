@@ -216,7 +216,7 @@ ID,nom,fonction,annees,statut,parent,public,support,similaire-a,wikidata,comptoi
 216,Chamilo,Plateforme d'apprentissage à distance,2020 ; 2021,R,,,,208 ; 209,Q423221,252,GPL-3.0+,Données et contenu,Gestion de contenu web,Déployé dans l'académie d'Aix-Marseille,,MIMO,1.11.10,
 217,Gravitee Community Edition,Outil de gestion d'API,2020 ; 2021,R,,,,,Q97819945,404,Apache-2.0,Opérations,Outil métier,,,MIMPROD,3.x,
 218,OpenSVC,Logiciel d'orchestration applicative et de clustering haute disponibilité,2020 ; 2021,R,,,,,Q100588070,336,GPL-2.0,Opérations,Outil métier,,,MIMPROD,2.1,
-219,Apache Superset,Logiciel de datavisualisation,2021,R,,,Oui,,Q68705831,418,Apache-2.0,Opérations,Outil métier,,,MIMPROD,0.38,
+219,Apache Superset,Logiciel de datavisualisation,2021,R,,,Oui,,Q68705831,418,Apache-2.0,Opérations,Outil métier,,,MIMPROD,1.1.0,
 220,uPortal,Portail pour l'enseignement supérieur et le secondaire,2021,R,,,,,Q3547301,419,Apache-2.0,Données et contenu,Gestion de contenu web,,,MIMO,5.2.x,
 221,Tuleap,Gestionnaire de cycle applicatif,2021,R,,,,,Q3541946,325,GPL-2.0,Conception & développement,Gestionnaire de cycle applicatif,,https://catalogue.numerique.gouv.fr/solutions/tuleap,MIMPROD,12.2-1,
 222,Dash,"Cadriciel d'applications web basé sur Flask (Python), React et Plotly.js",2021,O,,,,,Q106081011,424,MIT,Conception & développement,Gestionnaire de cycle applicatif,,,MIMDEV,1.19.0,
